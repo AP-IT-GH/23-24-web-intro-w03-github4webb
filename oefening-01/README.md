@@ -27,6 +27,5 @@
 
 ## 💡 vragen
 
-- Waarvoor dient het `controls`-attribute? om een af/aan de video/audio te spelen
-- Waarvoor staat de `source`-element? oorsprong van file - eigendom van file
-- Wanneer gebruik je meerdere `source`-elementen? als ik wou een videos, audios, fotos, en alle andere elementen dat een eigendom heeft. 
+
+
